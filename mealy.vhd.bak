@@ -1,0 +1,32 @@
+library IEEE;
+use IEEE.std_logic_1164.all;
+use IEEE.std_logic_unsigned.all;
+
+
+
+entity mealy is
+  PORT(
+    clk, reset : IN STD_LOGIC;
+    x          : IN STD_LOGIC_VECTOR(1 downto 0);
+    q, qp      : OUT STD_LOGIC_VECTOR(1 downto 0);
+    u          : OUT STD_LOGIC
+);
+end entity; 
+
+
+architecture myreg4 of reg4 is
+  signal qq : std_logic_vector(3 downto 0);
+begin
+  p0 : process(clk)
+  begin
+    if clk'Event and clk = '1' then -- only take action when rising edge
+        if z = '1' then    qq <= "0000";
+        elsif y = '1' then qq <= din;
+        elsif x = '1' then qq <= qq(2 downto 0) & w;
+        end if;
+    end if; -- end clock-if
+  end process;
+  q <= qq;
+end architecture ;  
+    
+
