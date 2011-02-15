@@ -1,0 +1,165 @@
+# //  QuestaSim-64 6.5b May 21 2009 Linux 2.6.36-02063602-generic
+# //
+# //  Copyright 1991-2009 Mentor Graphics Corporation
+# //              All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND 
+# //  PROPRIETARY INFORMATION WHICH IS THE PROPERTY
+# //  OF MENTOR GRAPHICS CORPORATION OR ITS LICENSORS
+# //  AND IS SUBJECT TO LICENSE TERMS.
+# //
+# Loading project Lab3
+# reading /cab/tmpmnt/sol.ita.chalmers.se/ufs/misc/linuxsw/sup/mgc/questa-6.5b/questasim/linux_x86_64/../modelsim.ini
+# Loading project Frelab3
+# Compile of bcd23.vhd was successful.
+# Compile of bcd59.vhd was successful.
+# Compile of clock.vhd failed with 1 errors.
+# Compile of genhz.vhd was successful.
+# Compile of mealy.vhd was successful.
+# 5 compiles, 1 failed with 1 error. 
+vsim -voptargs=+acc work.mealy
+# vsim -voptargs=+acc work.mealy 
+# ** Note: (vsim-3812) Design is being optimized...
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading work.mealy(mealy_bhv)#1
+do mealy.do
+# .main_pane.objects.interior.cs.body .main_pane.wave.interior.cs.body.pw.wf
+do mealy.do
+# .main_pane.objects.interior.cs.body .main_pane.wave.interior.cs.body.pw.wf
+do mealy.do
+# .main_pane.objects.interior.cs.body .main_pane.wave.interior.cs.body.pw.wf
+do mealy.do
+# .main_pane.objects.interior.cs.body .main_pane.wave.interior.cs.body.pw.wf
+do mealy.do
+# .main_pane.objects.interior.cs.body .main_pane.wave.interior.cs.body.pw.wf
+do mealy.do
+# .main_pane.objects.interior.cs.body .main_pane.wave.interior.cs.body.pw.wf
+do mealy.do
+# .main_pane.objects.interior.cs.body .main_pane.wave.interior.cs.body.pw.wf
+# Compile of bcd23.vhd was successful.
+# Compile of bcd59.vhd was successful.
+# Compile of clock.vhd failed with 1 errors.
+# Compile of genhz.vhd was successful.
+# Compile of mealy.vhd failed with 1 errors.
+# 5 compiles, 2 failed with 2 errors. 
+# Compile of bcd23.vhd was successful.
+# Compile of bcd59.vhd was successful.
+# Compile of clock.vhd failed with 1 errors.
+# Compile of genhz.vhd was successful.
+# Compile of mealy.vhd was successful.
+# 5 compiles, 1 failed with 1 error. 
+do mealy.do
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading work.mealy(mealy_bhv)#1
+# .main_pane.objects.interior.cs.body .main_pane.wave.interior.cs.body.pw.wf
+# Compile of bcd23.vhd was successful.
+# Compile of bcd59.vhd was successful.
+# Compile of clock.vhd failed with 1 errors.
+# Compile of genhz.vhd was successful.
+# Compile of mealy.vhd was successful.
+# 5 compiles, 1 failed with 1 error. 
+do mealy.do
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading work.mealy(mealy_bhv)#1
+# .main_pane.objects.interior.cs.body .main_pane.wave.interior.cs.body.pw.wf
+do mealy.do
+# .main_pane.objects.interior.cs.body .main_pane.wave.interior.cs.body.pw.wf
+# Compile of bcd23.vhd was successful.
+# Compile of bcd59.vhd was successful.
+# Compile of clock.vhd failed with 1 errors.
+# Compile of genhz.vhd was successful.
+# Compile of mealy.vhd was successful.
+# 5 compiles, 1 failed with 1 error. 
+do mealy.do
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading work.mealy(mealy_bhv)#1
+# .main_pane.objects.interior.cs.body .main_pane.wave.interior.cs.body.pw.wf
+# Compile of bcd23.vhd was successful.
+# Compile of bcd59.vhd was successful.
+# Compile of clock.vhd failed with 1 errors.
+# Compile of genhz.vhd was successful.
+# Compile of mealy.vhd was successful.
+# 5 compiles, 1 failed with 1 error. 
+do mealy.do
+# .main_pane.objects.interior.cs.body .main_pane.wave.interior.cs.body.pw.wf
+do mealy.do
+# .main_pane.objects.interior.cs.body .main_pane.wave.interior.cs.body.pw.wf
+# Compile of bcd23.vhd was successful.
+# Compile of bcd59.vhd was successful.
+# Compile of clock.vhd failed with 1 errors.
+# Compile of genhz.vhd was successful.
+# Compile of mealy.vhd was successful.
+# 5 compiles, 1 failed with 1 error. 
+do mealy.do
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading work.mealy(mealy_bhv)#1
+# .main_pane.objects.interior.cs.body .main_pane.wave.interior.cs.body.pw.wf
+do mealy.do
+# .main_pane.objects.interior.cs.body .main_pane.wave.interior.cs.body.pw.wf
+# Compile of bcd23.vhd was successful.
+# Compile of bcd59.vhd was successful.
+# Compile of clock.vhd failed with 1 errors.
+# Compile of genhz.vhd was successful.
+# Compile of mealy.vhd was successful.
+# 5 compiles, 1 failed with 1 error. 
+do mealy.do
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading work.mealy(mealy_bhv)#1
+# .main_pane.objects.interior.cs.body .main_pane.wave.interior.cs.body.pw.wf
+do mealy.do
+# .main_pane.objects.interior.cs.body .main_pane.wave.interior.cs.body.pw.wf
+do mealy.do
+# .main_pane.objects.interior.cs.body .main_pane.wave.interior.cs.body.pw.wf
+do mealy.do
+# .main_pane.objects.interior.cs.body .main_pane.wave.interior.cs.body.pw.wf
+# Compile of bcd23.vhd was successful.
+# Compile of bcd59.vhd was successful.
+# Compile of clock.vhd failed with 1 errors.
+# Compile of genhz.vhd was successful.
+# Compile of mealy.vhd was successful.
+# 5 compiles, 1 failed with 1 error. 
+do mealy.do
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading work.mealy(mealy_bhv)#1
+# .main_pane.objects.interior.cs.body .main_pane.wave.interior.cs.body.pw.wf
+# Compile of bcd23.vhd was successful.
+# Compile of bcd59.vhd was successful.
+# Compile of clock.vhd failed with 1 errors.
+# Compile of genhz.vhd was successful.
+# Compile of mealy.vhd was successful.
+# 5 compiles, 1 failed with 1 error. 
+do mealy.do
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading work.mealy(mealy_bhv)#1
+# .main_pane.objects.interior.cs.body .main_pane.wave.interior.cs.body.pw.wf
