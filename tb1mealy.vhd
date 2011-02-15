@@ -17,19 +17,101 @@ component mealy
         );
 end component;
 
-Signal clk   : STD_LOGIC := '0';
-Signal reset : STD_LOGIC;
-Signal x     : STD_LOGIC_VECTOR(1 downto 0);
+  Signal clk   : STD_LOGIC := '0';
+  Signal reset : STD_LOGIC := '1';
+  Signal x     : STD_LOGIC_VECTOR(1 downto 0);
 
 begin
-  u1  : mealy PORT MAP(clk, reset, x, u, q, qp);
-  clk <= not clk after 100ns;
-  reset <= '1', '0' after 425ns;
+  u1  : mealy PORT MAP(
+    clk => clk, 
+    reset => reset,
+    x => x,
+    u => u,
+    q => q,
+    qp => qp
+  );
+    
+  clk <= not clk after 100 ns;
+  reset <= '1', '0' after 425 ns;
   
-  x <= "00",
-       "11" after 1250ns,
-       "10" after 1450ns,
-       "01" after 1850ns;
-       
+  process
+  begin
+
+    x <= "00";
+    wait for  425 ns;
+    wait for 225 ns;
+
+    x <=  "00";
+    wait for 200 ns;
+
+    x <=  "00";
+    wait for 200 ns;
+
+    x <=  "00";
+    wait for 200 ns;
+
+    x <=  "11";
+    wait for 200 ns;
+
+    x <=  "10";
+    wait for 200 ns;
+
+    x <=  "01";
+    wait for 200 ns;
+
+    x <=  "01";
+    wait for 200 ns;
+
+    x <=  "01";
+    wait for 200 ns;
+
+    x <=  "01";
+    wait for 200 ns;
+
+    x <=  "00";
+    wait for 400 ns;
+
+    x <=  "01";
+    wait for 200 ns;
+
+    x <=  "01";
+    wait for 200 ns;
+
+    x <=  "00";
+    wait for 200 ns;
+
+    x <=  "11";
+    wait for 200 ns;
+
+    x <=  "00";
+    wait for 200 ns;
+
+    x <=  "11";
+    wait for 200 ns;
+
+    x <=  "00";
+    wait for 200 ns;
+
+    x <=  "11";
+    wait for 200 ns;
+
+    x <=  "01";
+    wait for 200 ns;
+
+    x <=  "00";
+    wait for 1200 ns;
+
+    x <=  "00";
+    wait for 200 ns;
+
+    x <=  "11"; 
+    wait for 200 ns;
+
+    x <=  "10";
+    wait for 1200 ns;
+    
+    wait;
+  end process;
+  
   
 end Architecture;

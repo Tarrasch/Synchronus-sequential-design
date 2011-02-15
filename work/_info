@@ -4,137 +4,176 @@ K3
 cModel Technology
 Z0 d/chalmers/users/rarash/VHDL
 T_opt
-VA7eMIDlj[?Tn@hR?XI0jD1
-04 5 9 work mealy mealy_bhv 1
-Z1 =22-00270e1407f5-4d5a7de5-22572-46d2
-Z2 o-quiet -auto_acc_if_foreign -work work +acc
-Z3 n@_opt
-Z4 OL;O;6.5b;42
+Z1 VVH?<h0f0UQPknkIfhYMA50
+Z2 04 5 9 work mealy mealy_bhv 1
+Z3 =24-00270e1407f5-4d5a89de-dbf-46d2
+Z4 o-quiet -auto_acc_if_foreign -work work +acc
+Z5 n@_opt
+Z6 OL;O;6.5b;42
+T_opt1
+V5LJInVD199J=mO^nEH`Sk0
+Z7 04 8 12 work tb1mealy tb1mealy_bhv 1
+Z8 =7-00270e1407f5-4d5a9112-ab48b-6d79
+R4
+Z9 n@_opt1
+R6
 Ebcd23
-Z5 w1297773649
-Z6 DPx4 ieee 15 std_logic_arith 0 22 GJbAT?7@hRQU9IQ702DT]2
-Z7 DPx4 ieee 18 std_logic_unsigned 0 22 hEMVMlaNCR^<OOoVNV;m90
-Z8 DPx4 ieee 14 std_logic_1164 0 22 GH1=`jDDBJ=`LM;:Ak`kf2
-Z9 d/chalmers/users/frebro/Syntes/Synchronus-sequential-design
-Z10 8/chalmers/users/frebro/Syntes/Synchronus-sequential-design/bcd23.vhd
-Z11 F/chalmers/users/frebro/Syntes/Synchronus-sequential-design/bcd23.vhd
+Z10 w1297773649
+Z11 DPx4 ieee 15 std_logic_arith 0 22 GJbAT?7@hRQU9IQ702DT]2
+Z12 DPx4 ieee 18 std_logic_unsigned 0 22 hEMVMlaNCR^<OOoVNV;m90
+Z13 DPx4 ieee 14 std_logic_1164 0 22 GH1=`jDDBJ=`LM;:Ak`kf2
+Z14 d/chalmers/users/frebro/Syntes/Synchronus-sequential-design
+Z15 8/chalmers/users/frebro/Syntes/Synchronus-sequential-design/bcd23.vhd
+Z16 F/chalmers/users/frebro/Syntes/Synchronus-sequential-design/bcd23.vhd
 l0
 L7
-Z12 VgJ_5QGUJ9PSmSJPM4IzTE0
-Z13 OL;C;6.5b;42
+Z17 VgJ_5QGUJ9PSmSJPM4IzTE0
+Z18 OL;C;6.5b;42
 32
-Z14 o-work work -2002 -explicit
-Z15 tExplicit 1
-Z16 !s100 Ie4JBZ<9Nn<:8GRii8CfE0
+Z19 o-work work -2002 -explicit
+Z20 tExplicit 1
+Z21 !s100 Ie4JBZ<9Nn<:8GRii8CfE0
 Amybcd23
-R6
-R7
-R8
-Z17 DEx4 work 5 bcd23 0 22 gJ_5QGUJ9PSmSJPM4IzTE0
+R11
+R12
+R13
+Z22 DEx4 work 5 bcd23 0 22 gJ_5QGUJ9PSmSJPM4IzTE0
 l17
 L16
-Z18 V]S>CZ@Kf`j8[@AnT@0`8V0
-R13
+Z23 V]S>CZ@Kf`j8[@AnT@0`8V0
+R18
 32
-Z19 Mx3 4 ieee 14 std_logic_1164
-Z20 Mx2 4 ieee 18 std_logic_unsigned
-Z21 Mx1 4 ieee 15 std_logic_arith
-R14
-R15
-Z22 !s100 YaF=bSX9Dh5fz2REd]<452
+Z24 Mx3 4 ieee 14 std_logic_1164
+Z25 Mx2 4 ieee 18 std_logic_unsigned
+Z26 Mx1 4 ieee 15 std_logic_arith
+R19
+R20
+Z27 !s100 YaF=bSX9Dh5fz2REd]<452
 Ebcd59
-Z23 w1297523273
-R6
-R7
-R8
-R9
-Z24 8/chalmers/users/frebro/Syntes/Synchronus-sequential-design/bcd59.vhd
-Z25 F/chalmers/users/frebro/Syntes/Synchronus-sequential-design/bcd59.vhd
+Z28 w1297523273
+R11
+R12
+R13
+R14
+Z29 8/chalmers/users/frebro/Syntes/Synchronus-sequential-design/bcd59.vhd
+Z30 F/chalmers/users/frebro/Syntes/Synchronus-sequential-design/bcd59.vhd
 l0
 L11
-Z26 VQ_9nf<ealTekRG2DfaXff2
-R13
+Z31 VQ_9nf<ealTekRG2DfaXff2
+R18
 32
-R14
-R15
-Z27 !s100 HC2[@]dDi4gbUQFO6Cc<m2
+R19
+R20
+Z32 !s100 HC2[@]dDi4gbUQFO6Cc<m2
 Abcd59_bhv
-R6
-R7
-R8
-Z28 DEx4 work 5 bcd59 0 22 Q_9nf<ealTekRG2DfaXff2
+R11
+R12
+R13
+Z33 DEx4 work 5 bcd59 0 22 Q_9nf<ealTekRG2DfaXff2
 l21
 L20
-Z29 Vf]Kh`4^GKRDHAd5dbG<Eo1
-R13
+Z34 Vf]Kh`4^GKRDHAd5dbG<Eo1
+R18
 32
+R24
+R25
+R26
 R19
 R20
-R21
-R14
-R15
-Z30 !s100 zec7P4f2R4]cY>eO^OR6X2
+Z35 !s100 zec7P4f2R4]cY>eO^OR6X2
 Egenhz
-R5
-R6
-R7
-R8
-R9
-Z31 8/chalmers/users/frebro/Syntes/Synchronus-sequential-design/genhz.vhd
-Z32 F/chalmers/users/frebro/Syntes/Synchronus-sequential-design/genhz.vhd
+R10
+R11
+R12
+R13
+R14
+Z36 8/chalmers/users/frebro/Syntes/Synchronus-sequential-design/genhz.vhd
+Z37 F/chalmers/users/frebro/Syntes/Synchronus-sequential-design/genhz.vhd
 l0
 L6
-Z33 V2G3T5NLn_XO<3a099MgXO2
-R13
+Z38 V2G3T5NLn_XO<3a099MgXO2
+R18
 32
-R14
-R15
-Z34 !s100 W@0aFYKIJBD2W<[kk?=bo0
+R19
+R20
+Z39 !s100 W@0aFYKIJBD2W<[kk?=bo0
 Agenhz_bhv
-R6
-R7
-R8
-Z35 DEx4 work 5 genhz 0 22 2G3T5NLn_XO<3a099MgXO2
+R11
+R12
+R13
+Z40 DEx4 work 5 genhz 0 22 2G3T5NLn_XO<3a099MgXO2
 l15
 L14
-Z36 V>4R>WF<M]kFG9HAZA:NMF1
-R13
+Z41 V>4R>WF<M]kFG9HAZA:NMF1
+R18
 32
+R24
+R25
+R26
 R19
 R20
-R21
-R14
-R15
-Z37 !s100 c?`TCnHZDLFGJaKH<j18L3
+Z42 !s100 c?`TCnHZDLFGJaKH<j18L3
 Emealy
-Z38 w1297776095
-R6
-R7
-R8
-R9
-Z39 8/chalmers/users/frebro/Syntes/Synchronus-sequential-design/mealy.vhd
-Z40 F/chalmers/users/frebro/Syntes/Synchronus-sequential-design/mealy.vhd
+Z43 w1297778537
+R11
+R12
+R13
+R14
+Z44 8/chalmers/users/frebro/Syntes/Synchronus-sequential-design/mealy.vhd
+Z45 F/chalmers/users/frebro/Syntes/Synchronus-sequential-design/mealy.vhd
 l0
 L7
-Z41 VD^AenC]LJ`Z:kH6LLi6Si2
-R13
-32
-R14
-R15
-Z42 !s100 HZ84ejI[9EKJ0=RiQ5PC61
-Amealy_bhv
-R6
-R7
-R8
-Z43 DEx4 work 5 mealy 0 22 D^AenC]LJ`Z:kH6LLi6Si2
-l19
-L17
-Z44 V:Nddl^6<k0cjcf^m1W7ad3
-R13
+Z46 V__ZRF>m0d99`mH=EWgJHS1
+R18
 32
 R19
 R20
-R21
+Z47 !s100 Ud`=@hX2NJn<[7Fe8o7hQ2
+Amealy_bhv
+R11
+R12
+R13
+Z48 DEx4 work 5 mealy 0 22 __ZRF>m0d99`mH=EWgJHS1
+l19
+L17
+Z49 V:Nddl^6<k0cjcf^m1W7ad3
+R18
+32
+R24
+R25
+R26
+R19
+R20
+Z50 !s100 Si0=GA5>_Z?K]U3S?IRhU1
+Etb1mealy
+Z51 w1297780971
+R11
+R12
+R13
 R14
-R15
-Z45 !s100 Si0=GA5>_Z?K]U3S?IRhU1
+Z52 8/chalmers/users/frebro/Syntes/Synchronus-sequential-design/tb1mealy.vhd
+Z53 F/chalmers/users/frebro/Syntes/Synchronus-sequential-design/tb1mealy.vhd
+l0
+L5
+Z54 Vn>hgmS2zZ4j>blZMjUiEi2
+R18
+32
+R19
+R20
+Z55 !s100 S0[c52^;P^eHk2Yk82]:L2
+Atb1mealy_bhv
+R11
+R12
+R13
+Z56 DEx4 work 8 tb1mealy 0 22 n>hgmS2zZ4j>blZMjUiEi2
+l24
+L11
+Z57 V>3hDUE_I_195`gH=DK[XP0
+R18
+32
+R24
+R25
+R26
+R19
+R20
+Z58 !s100 ;aT496U?:d70kLUa;:cbH2
