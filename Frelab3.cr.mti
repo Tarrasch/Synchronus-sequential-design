@@ -1,13 +1,4 @@
-/chalmers/users/frebro/Syntes/Synchronus-sequential-design/mealy.vhd {1 {vcom -work work -2002 -explicit -vopt /chalmers/users/frebro/Syntes/Synchronus-sequential-design/mealy.vhd
-QuestaSim-64 vcom 6.5b Compiler 2009.05 May 21 2009
--- Loading package standard
--- Loading package std_logic_1164
--- Loading package std_logic_arith
--- Loading package std_logic_unsigned
--- Compiling entity mealy
--- Compiling architecture mealy_bhv of mealy
-
-} {} {}} /chalmers/users/frebro/Syntes/Synchronus-sequential-design/genhz.vhd {1 {vcom -work work -2002 -explicit -vopt /chalmers/users/frebro/Syntes/Synchronus-sequential-design/genhz.vhd
+/chalmers/users/frebro/Syntes/Synchronus-sequential-design/genhz.vhd {1 {vcom -work work -2002 -explicit -vopt /chalmers/users/frebro/Syntes/Synchronus-sequential-design/genhz.vhd
 QuestaSim-64 vcom 6.5b Compiler 2009.05 May 21 2009
 -- Loading package standard
 -- Loading package std_logic_1164
@@ -16,16 +7,25 @@ QuestaSim-64 vcom 6.5b Compiler 2009.05 May 21 2009
 -- Compiling entity genhz
 -- Compiling architecture genhz_bhv of genhz
 
-} {} {}} /chalmers/users/frebro/Syntes/Synchronus-sequential-design/clock.vhd {0 {vcom -work work -2002 -explicit -vopt /chalmers/users/frebro/Syntes/Synchronus-sequential-design/clock.vhd
+} {} {}} /chalmers/users/frebro/Syntes/Synchronus-sequential-design/tb2mealy.vhd {1 {vcom -work work -2002 -explicit -vopt /chalmers/users/frebro/Syntes/Synchronus-sequential-design/tb2mealy.vhd
 QuestaSim-64 vcom 6.5b Compiler 2009.05 May 21 2009
 -- Loading package standard
 -- Loading package std_logic_1164
 -- Loading package std_logic_arith
 -- Loading package std_logic_unsigned
--- Compiling entity clock
-** Error: /chalmers/users/frebro/Syntes/Synchronus-sequential-design/clock.vhd(9): near ")": expecting "IDENTIFIER"
+-- Compiling entity tb2mealy
+-- Compiling architecture tb2mealy_bhv of tb2mealy
 
-} {8.0 9.0} {}} /chalmers/users/frebro/Syntes/Synchronus-sequential-design/bcd23.vhd {1 {vcom -work work -2002 -explicit -vopt /chalmers/users/frebro/Syntes/Synchronus-sequential-design/bcd23.vhd
+} {} {}} /chalmers/users/frebro/Syntes/Synchronus-sequential-design/mealy.vhd {1 {vcom -work work -2002 -explicit -vopt /chalmers/users/frebro/Syntes/Synchronus-sequential-design/mealy.vhd
+QuestaSim-64 vcom 6.5b Compiler 2009.05 May 21 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+-- Compiling entity mealy
+-- Compiling architecture mealy_bhv of mealy
+
+} {} {}} /chalmers/users/frebro/Syntes/Synchronus-sequential-design/bcd23.vhd {1 {vcom -work work -2002 -explicit -vopt /chalmers/users/frebro/Syntes/Synchronus-sequential-design/bcd23.vhd
 QuestaSim-64 vcom 6.5b Compiler 2009.05 May 21 2009
 -- Loading package standard
 -- Loading package std_logic_1164

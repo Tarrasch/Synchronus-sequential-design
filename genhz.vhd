@@ -9,8 +9,6 @@ entity genhz is
     hz1, hz2 : OUT STD_LOGIC);
 end;
 
-
-
 architecture genhz_bhv of genhz is
 begin
   p0 : process(clk)

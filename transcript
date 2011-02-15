@@ -451,3 +451,59 @@ do tb2mealy.do
 # Loading ieee.std_logic_unsigned(body)
 # Loading work.tb2mealy(tb2mealy_bhv)#1
 # Loading work.mealy(mealy_bhv)#1
+# Compile of bcd23.vhd was successful.
+# Compile of bcd59.vhd was successful.
+# Compile of clock.vhd failed with 1 errors.
+# Compile of genhz.vhd was successful.
+# Compile of mealy.vhd was successful.
+# Compile of tb1mealy.vhd was successful.
+# Compile of tb2mealy.vhd was successful.
+# 7 compiles, 1 failed with 1 error. 
+# Compile of bcd23.vhd was successful.
+# Compile of bcd59.vhd was successful.
+# Compile of clock.vhd failed with 1 errors.
+# Compile of genhz.vhd was successful.
+# Compile of mealy.vhd was successful.
+# Compile of tb1mealy.vhd was successful.
+# Compile of tb2mealy.vhd was successful.
+# 7 compiles, 1 failed with 1 error. 
+# Compile of bcd23.vhd was successful.
+# Compile of bcd59.vhd was successful.
+# Compile of clock.vhd failed with 1 errors.
+# Compile of genhz.vhd was successful.
+# Compile of mealy.vhd was successful.
+# Compile of tb1mealy.vhd was successful.
+# Compile of tb2mealy.vhd was successful.
+# 7 compiles, 1 failed with 1 error. 
+# Compile of bcd23.vhd was successful.
+# Compile of bcd59.vhd was successful.
+# Compile of clock.vhd failed with 1 errors.
+# Compile of genhz.vhd was successful.
+# Compile of mealy.vhd was successful.
+# Compile of tb1mealy.vhd was successful.
+# Compile of tb2mealy.vhd was successful.
+# 7 compiles, 1 failed with 1 error. 
+# Compile of bcd23.vhd was successful.
+# Compile of bcd59.vhd was successful.
+# Compile of clock.vhd was successful.
+# Compile of genhz.vhd was successful.
+# Compile of mealy.vhd was successful.
+# Compile of tb1mealy.vhd was successful.
+# Compile of tb2mealy.vhd was successful.
+# 7 compiles, 0 failed with no errors. 
+# Compile of bcd23.vhd was successful.
+# Compile of bcd59.vhd was successful.
+# Compile of clock.vhd was successful.
+# Compile of genhz.vhd was successful.
+# Compile of mealy.vhd was successful.
+# Compile of tb1mealy.vhd was successful.
+# Compile of tb2mealy.vhd was successful.
+# 7 compiles, 0 failed with no errors. 
+# Compile of bcd23.vhd was successful.
+# Compile of bcd59.vhd was successful.
+# Compile of clock.vhd was successful.
+# Compile of genhz.vhd was successful.
+# Compile of mealy.vhd was successful.
+# Compile of tb1mealy.vhd was successful.
+# Compile of tb2mealy.vhd was successful.
+# 7 compiles, 0 failed with no errors. 
