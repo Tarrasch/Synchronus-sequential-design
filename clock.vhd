@@ -1,3 +1,8 @@
+-- Fredrik Brosser 901230-4011
+-- Arash Rouhani 901117-1213
+-- Clock.vhd
+-- LAB3 Syntes
+
 library IEEE;
 use IEEE.std_logic_1164.all;
 use IEEE.std_logic_unsigned.all;
