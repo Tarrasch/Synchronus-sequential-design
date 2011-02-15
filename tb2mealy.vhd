@@ -40,6 +40,11 @@ begin
     wait for 425 ns;
     wait for 225 ns;
 
+    if q /= "01" then
+      testok <= '0';
+      report "Error at time 650";
+    end if;
+    
     x <=  "00";
     wait for 200 ns;
 

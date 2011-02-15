@@ -40,7 +40,7 @@ begin
     x <= "00";
     wait for  425 ns;
     wait for 225 ns;
-
+    
     x <=  "00";
     wait for 200 ns;
 
