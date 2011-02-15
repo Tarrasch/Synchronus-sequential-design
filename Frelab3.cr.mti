@@ -34,6 +34,15 @@ QuestaSim-64 vcom 6.5b Compiler 2009.05 May 21 2009
 -- Compiling entity bcd23
 -- Compiling architecture mybcd23 of bcd23
 
+} {} {}} /chalmers/users/frebro/Syntes/Synchronus-sequential-design/tb1mealy.vhd {1 {vcom -work work -2002 -explicit -vopt /chalmers/users/frebro/Syntes/Synchronus-sequential-design/tb1mealy.vhd
+QuestaSim-64 vcom 6.5b Compiler 2009.05 May 21 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+-- Compiling entity tb1mealy
+-- Compiling architecture tb1mealy_bhv of tb1mealy
+
 } {} {}} /chalmers/users/frebro/Syntes/Synchronus-sequential-design/bcd59.vhd {1 {vcom -work work -2002 -explicit -vopt /chalmers/users/frebro/Syntes/Synchronus-sequential-design/bcd59.vhd
 QuestaSim-64 vcom 6.5b Compiler 2009.05 May 21 2009
 -- Loading package standard

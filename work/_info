@@ -18,201 +18,201 @@ R4
 Z10 n@_opt1
 R6
 T_opt2
-VA6CaOImW>NKLJ_W[d]z`X2
-04 8 12 work tb2mealy tb2mealy_bhv 1
-Z11 =1-00270e1407f5-4d5a9517-225a4-7616
+VObdI8G84m7h>d=N9Yj]a<1
+Z11 04 8 12 work tb2mealy tb2mealy_bhv 1
+Z12 =7-00270e1407f5-4d5a993f-8fcb4-7616
 R4
-Z12 n@_opt2
+Z13 n@_opt2
 R6
 Ebcd23
-Z13 w1297773649
-Z14 DPx4 ieee 15 std_logic_arith 0 22 GJbAT?7@hRQU9IQ702DT]2
-Z15 DPx4 ieee 18 std_logic_unsigned 0 22 hEMVMlaNCR^<OOoVNV;m90
-Z16 DPx4 ieee 14 std_logic_1164 0 22 GH1=`jDDBJ=`LM;:Ak`kf2
-Z17 d/chalmers/users/frebro/Syntes/Synchronus-sequential-design
-Z18 8/chalmers/users/frebro/Syntes/Synchronus-sequential-design/bcd23.vhd
-Z19 F/chalmers/users/frebro/Syntes/Synchronus-sequential-design/bcd23.vhd
+Z14 w1297773649
+Z15 DPx4 ieee 15 std_logic_arith 0 22 GJbAT?7@hRQU9IQ702DT]2
+Z16 DPx4 ieee 18 std_logic_unsigned 0 22 hEMVMlaNCR^<OOoVNV;m90
+Z17 DPx4 ieee 14 std_logic_1164 0 22 GH1=`jDDBJ=`LM;:Ak`kf2
+Z18 d/chalmers/users/frebro/Syntes/Synchronus-sequential-design
+Z19 8/chalmers/users/frebro/Syntes/Synchronus-sequential-design/bcd23.vhd
+Z20 F/chalmers/users/frebro/Syntes/Synchronus-sequential-design/bcd23.vhd
 l0
 L7
-Z20 VgJ_5QGUJ9PSmSJPM4IzTE0
-Z21 OL;C;6.5b;42
+Z21 VgJ_5QGUJ9PSmSJPM4IzTE0
+Z22 OL;C;6.5b;42
 32
-Z22 o-work work -2002 -explicit
-Z23 tExplicit 1
-Z24 !s100 Ie4JBZ<9Nn<:8GRii8CfE0
+Z23 o-work work -2002 -explicit
+Z24 tExplicit 1
+Z25 !s100 Ie4JBZ<9Nn<:8GRii8CfE0
 Amybcd23
-R14
 R15
 R16
-Z25 DEx4 work 5 bcd23 0 22 gJ_5QGUJ9PSmSJPM4IzTE0
+R17
+Z26 DEx4 work 5 bcd23 0 22 gJ_5QGUJ9PSmSJPM4IzTE0
 l17
 L16
-Z26 V]S>CZ@Kf`j8[@AnT@0`8V0
-R21
-32
-Z27 Mx3 4 ieee 14 std_logic_1164
-Z28 Mx2 4 ieee 18 std_logic_unsigned
-Z29 Mx1 4 ieee 15 std_logic_arith
+Z27 V]S>CZ@Kf`j8[@AnT@0`8V0
 R22
+32
+Z28 Mx3 4 ieee 14 std_logic_1164
+Z29 Mx2 4 ieee 18 std_logic_unsigned
+Z30 Mx1 4 ieee 15 std_logic_arith
 R23
-Z30 !s100 YaF=bSX9Dh5fz2REd]<452
+R24
+Z31 !s100 YaF=bSX9Dh5fz2REd]<452
 Ebcd59
-Z31 w1297523273
-R14
+Z32 w1297523273
 R15
 R16
 R17
-Z32 8/chalmers/users/frebro/Syntes/Synchronus-sequential-design/bcd59.vhd
-Z33 F/chalmers/users/frebro/Syntes/Synchronus-sequential-design/bcd59.vhd
+R18
+Z33 8/chalmers/users/frebro/Syntes/Synchronus-sequential-design/bcd59.vhd
+Z34 F/chalmers/users/frebro/Syntes/Synchronus-sequential-design/bcd59.vhd
 l0
 L11
-Z34 VQ_9nf<ealTekRG2DfaXff2
-R21
-32
+Z35 VQ_9nf<ealTekRG2DfaXff2
 R22
+32
 R23
-Z35 !s100 HC2[@]dDi4gbUQFO6Cc<m2
+R24
+Z36 !s100 HC2[@]dDi4gbUQFO6Cc<m2
 Abcd59_bhv
-R14
 R15
 R16
-Z36 DEx4 work 5 bcd59 0 22 Q_9nf<ealTekRG2DfaXff2
+R17
+Z37 DEx4 work 5 bcd59 0 22 Q_9nf<ealTekRG2DfaXff2
 l21
 L20
-Z37 Vf]Kh`4^GKRDHAd5dbG<Eo1
-R21
+Z38 Vf]Kh`4^GKRDHAd5dbG<Eo1
+R22
 32
-R27
 R28
 R29
-R22
+R30
 R23
-Z38 !s100 zec7P4f2R4]cY>eO^OR6X2
+R24
+Z39 !s100 zec7P4f2R4]cY>eO^OR6X2
 Egenhz
-R13
 R14
 R15
 R16
 R17
-Z39 8/chalmers/users/frebro/Syntes/Synchronus-sequential-design/genhz.vhd
-Z40 F/chalmers/users/frebro/Syntes/Synchronus-sequential-design/genhz.vhd
+R18
+Z40 8/chalmers/users/frebro/Syntes/Synchronus-sequential-design/genhz.vhd
+Z41 F/chalmers/users/frebro/Syntes/Synchronus-sequential-design/genhz.vhd
 l0
 L6
-Z41 V2G3T5NLn_XO<3a099MgXO2
-R21
-32
+Z42 V2G3T5NLn_XO<3a099MgXO2
 R22
+32
 R23
-Z42 !s100 W@0aFYKIJBD2W<[kk?=bo0
+R24
+Z43 !s100 W@0aFYKIJBD2W<[kk?=bo0
 Agenhz_bhv
-R14
 R15
 R16
-Z43 DEx4 work 5 genhz 0 22 2G3T5NLn_XO<3a099MgXO2
+R17
+Z44 DEx4 work 5 genhz 0 22 2G3T5NLn_XO<3a099MgXO2
 l15
 L14
-Z44 V>4R>WF<M]kFG9HAZA:NMF1
-R21
+Z45 V>4R>WF<M]kFG9HAZA:NMF1
+R22
 32
-R27
 R28
 R29
-R22
+R30
 R23
-Z45 !s100 c?`TCnHZDLFGJaKH<j18L3
+R24
+Z46 !s100 c?`TCnHZDLFGJaKH<j18L3
 Emealy
-Z46 w1297778537
-R14
+Z47 w1297778537
 R15
 R16
 R17
-Z47 8/chalmers/users/frebro/Syntes/Synchronus-sequential-design/mealy.vhd
-Z48 F/chalmers/users/frebro/Syntes/Synchronus-sequential-design/mealy.vhd
+R18
+Z48 8/chalmers/users/frebro/Syntes/Synchronus-sequential-design/mealy.vhd
+Z49 F/chalmers/users/frebro/Syntes/Synchronus-sequential-design/mealy.vhd
 l0
 L7
-Z49 V__ZRF>m0d99`mH=EWgJHS1
-R21
-32
+Z50 V__ZRF>m0d99`mH=EWgJHS1
 R22
+32
 R23
-Z50 !s100 Ud`=@hX2NJn<[7Fe8o7hQ2
+R24
+Z51 !s100 Ud`=@hX2NJn<[7Fe8o7hQ2
 Amealy_bhv
-R14
 R15
 R16
-Z51 DEx4 work 5 mealy 0 22 __ZRF>m0d99`mH=EWgJHS1
+R17
+Z52 DEx4 work 5 mealy 0 22 __ZRF>m0d99`mH=EWgJHS1
 l19
 L17
-Z52 V:Nddl^6<k0cjcf^m1W7ad3
-R21
+Z53 V:Nddl^6<k0cjcf^m1W7ad3
+R22
 32
-R27
 R28
 R29
-R22
+R30
 R23
-Z53 !s100 Si0=GA5>_Z?K]U3S?IRhU1
+R24
+Z54 !s100 Si0=GA5>_Z?K]U3S?IRhU1
 Etb1mealy
-Z54 w1297782022
-R14
+Z55 w1297782022
 R15
 R16
 R17
-Z55 8/chalmers/users/frebro/Syntes/Synchronus-sequential-design/tb1mealy.vhd
-Z56 F/chalmers/users/frebro/Syntes/Synchronus-sequential-design/tb1mealy.vhd
+R18
+Z56 8/chalmers/users/frebro/Syntes/Synchronus-sequential-design/tb1mealy.vhd
+Z57 F/chalmers/users/frebro/Syntes/Synchronus-sequential-design/tb1mealy.vhd
 l0
 L5
-Z57 Vn>hgmS2zZ4j>blZMjUiEi2
-R21
-32
+Z58 Vn>hgmS2zZ4j>blZMjUiEi2
 R22
+32
 R23
-Z58 !s100 S0[c52^;P^eHk2Yk82]:L2
+R24
+Z59 !s100 S0[c52^;P^eHk2Yk82]:L2
 Atb1mealy_bhv
-R14
 R15
 R16
-Z59 DEx4 work 8 tb1mealy 0 22 n>hgmS2zZ4j>blZMjUiEi2
+R17
+Z60 DEx4 work 8 tb1mealy 0 22 n>hgmS2zZ4j>blZMjUiEi2
 l24
 L11
-Z60 V>3hDUE_I_195`gH=DK[XP0
-R21
+Z61 V>3hDUE_I_195`gH=DK[XP0
+R22
 32
-R27
 R28
 R29
-R22
+R30
 R23
-Z61 !s100 ;aT496U?:d70kLUa;:cbH2
+R24
+Z62 !s100 ;aT496U?:d70kLUa;:cbH2
 Etb2mealy
-Z62 w1297782027
-R14
+Z63 w1297783068
 R15
 R16
 R17
-Z63 8/chalmers/users/frebro/Syntes/Synchronus-sequential-design/tb2mealy.vhd
-Z64 F/chalmers/users/frebro/Syntes/Synchronus-sequential-design/tb2mealy.vhd
+R18
+Z64 8/chalmers/users/frebro/Syntes/Synchronus-sequential-design/tb2mealy.vhd
+Z65 F/chalmers/users/frebro/Syntes/Synchronus-sequential-design/tb2mealy.vhd
 l0
 L5
-Z65 V6TTG;OOz[k@]cfl7MIPS>1
-R21
-32
+Z66 V6TTG;OOz[k@]cfl7MIPS>1
 R22
+32
 R23
-Z66 !s100 MdEDUP10W7Wme6c:735RW2
+R24
+Z67 !s100 MdEDUP10W7Wme6c:735RW2
 Atb2mealy_bhv
-R14
 R15
 R16
-Z67 DEx4 work 8 tb2mealy 0 22 6TTG;OOz[k@]cfl7MIPS>1
+R17
+Z68 DEx4 work 8 tb2mealy 0 22 6TTG;OOz[k@]cfl7MIPS>1
 l23
 L9
-Z68 VlI:ffVUia7>g:aeN9Ekg;3
-R21
+Z69 Vz5iMTOURczQ@9OWT;Sn993
+R22
 32
-R27
 R28
 R29
-R22
+R30
 R23
-Z69 !s100 9d44<Z@62[b^gU6aM9;470
+R24
+Z70 !s100 <f6n0@69:F9P=4mnXkW7O2
