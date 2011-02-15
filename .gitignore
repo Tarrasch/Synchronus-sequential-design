@@ -1,5 +1,7 @@
 *.bak
 *.swp
 *temp*
+*/*_opt*/*
 *_opt*
+*_primary*
 
